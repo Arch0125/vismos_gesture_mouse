@@ -1,0 +1,2 @@
+# vismos_gesture_mouse
+The project name is VISMOS ( Visual Interface Sensor and Movement System). This python project is based on color detection and its movement. The user has Four colored rings on the fingers which can be used to control all the operations of the mouse namely, left click (pressed), double left click, right click, scroll up and down. Currently the program works only when there is an white background, so any developer who wants to work on this project and make it better is always welcomed. Thanks.
